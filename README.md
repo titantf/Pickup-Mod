@@ -1,11 +1,16 @@
-Pickup Mod
----
-Pick up any entity you are looking at.
-
 ### ConVars
-`sm_pickup_max` - Set the maximum number of entities a player can hold.
+Set the maximum number of entities a player can hold
+```
+sm_pickup_max
+```
 
-`sm_pickup_drop 0/1` - Drop all carrying entities on death.
+Drop all carrying entities on death
+```
+sm_pickup_drop 0/1
+```
 
 ### Admin Commands
-`sm_pickup` - Use while looking at the entity you want to pickup to pick it up
+Use while looking at the entity you want to pickup to pick it up
+```
+sm_pickup
+```
